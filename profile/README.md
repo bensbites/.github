@@ -1,5 +1,5 @@
 ### 👋 hey, welcome to Ben's Bites
-a daily newsletter covering the latest AI projects and demos. You can read it [**here**](https://bensbites.beehiiv.com/) or subscribe [**here**](https://www.bensbites.co/).
+a daily newsletter covering the latest AI projects and demos. You can read it [**here**](https://bensbites.beehiiv.com/) or [**subscribe**](https://www.bensbites.co/).
 
 #### who's Ben?
 - i'm Ben Tossell. ex-founder and current investor
